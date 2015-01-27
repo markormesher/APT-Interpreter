@@ -1,0 +1,5 @@
+int 100
+print
+int 1
+sub
+jge 1

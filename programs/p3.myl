@@ -1,0 +1,10 @@
+int 100
+call 4
+jge 1
+exit
+swap
+int 1
+sub
+print
+swap
+ret
